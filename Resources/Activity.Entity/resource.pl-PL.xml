@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pl-PL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.NsPerfumery.Caption" Value="Base object" />
+			<Item Name="EventsProcessSchema.Caption" Value="Process" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.Hour.Caption" Value="Godzina" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.Hour.Value" Value=" h " />
+			<Item Name="EventsProcessSchema.LocalizableStrings.Minute.Value" Value=" min" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.OwnerAndOwnerRoleAreEmptyErrorMessage.Value" Value="Please, fill in either the &quot;Owner&quot; or &quot;Role&quot; field." />
+			<Item Name="EventsProcessSchema.LocalizableStrings.OwnerIsEmptyErrorMessage.Value" Value="Please, fill in the &quot;Owner&quot; field." />
+			<Item Name="EventsProcessSchema.LocalizableStrings.SenderEmailMoreThenOne.Caption" Value="Wiadomość do użytkownika 1" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.SenderEmailMoreThenOne.Value" Value="More than one sender is specified in the &quot;From&quot; field" />
+		</Items>
+	</Group>
+</Resources>

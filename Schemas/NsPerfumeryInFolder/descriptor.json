@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "ecc81e40-0936-4513-a5c5-09fbc529f151",
+    "Name": "NsPerfumeryInFolder",
+    "ModifiedOnUtc": "\/Date(1657018723000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Парфюмерия в группе",
+    "DependsOn": []
+  }
+}

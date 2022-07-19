@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.Account.Caption" Value="חברה" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.ActivityCategory.Caption" Value="קטגוריה" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.ActivityPriority.Caption" Value="עדיפות" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.ActivityPriority.DisplayValue" Value="ab96fa02-7fe6-df11-971b-001d60e938c6" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.ActivityResult.Caption" Value="תוצאת פעילות" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.Application.Caption" Value="Application" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.Case.Caption" Value="מקרה" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.Change.Caption" Value="שינוי" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.ConfItem.Caption" Value="פריט תצורה" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.Contact.Caption" Value="איש קשר" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.Contract.Caption" Value="חוזה" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.CurrentActivityId.Caption" Value="Task Id" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.Document.Caption" Value="מסמך" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.Duration.Caption" Value="משך" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.Duration.DisplayValue" Value="20" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.DurationPeriod.Caption" Value="Duration (period)" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.DurationPeriod.DisplayValue" Value="0" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.Event.Caption" Value="תהליך" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.ExecutionContext.Caption" Value="Execution context" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.FinApplication.Caption" Value="Application" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.Incident.Caption" Value="Incident" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.InformationOnStep.Caption" Value="Information on step" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.Invoice.Caption" Value="חשבונית" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.IsActivityCompleted.Caption" Value="Activity completed" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.IsActivityCompleted.DisplayValue" Value="שגוי" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.Lead.Caption" Value="הפניה" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.Listing.Caption" Value="Listings" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.NsPerfumery.Caption" Value="אובייקט בסיס" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.OmniChat.Caption" Value="צ'אט" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.Opportunity.Caption" Value="הזדמנות עסקית" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.Order.Caption" Value="הזמנה" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.OwnerId.Caption" Value="בעלים" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.Problem.Caption" Value="בעיה" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.Project.Caption" Value="פרויקט" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.Property.Caption" Value="תכונות" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.QueueItem.Caption" Value="Queue item" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.Recommendation.Caption" Value="המלצה" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.Release.Caption" Value="שחרור גרסה" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.RemindBefore.Caption" Value="Remind owner in advance" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.RemindBefore.DisplayValue" Value="0" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.RemindBeforePeriod.Caption" Value="Remind owner in advance (period)" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.RemindBeforePeriod.DisplayValue" Value="0" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.Requests.Caption" Value="Request" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.ShowExecutionPage.Caption" Value="Show execution page automatically" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.ShowExecutionPage.DisplayValue" Value="אמת" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.ShowInScheduler.Caption" Value="הצג בלוח השנה" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.ShowInScheduler.DisplayValue" Value="שגוי" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.StartIn.Caption" Value="Start executing in" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.StartIn.DisplayValue" Value="0" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.StartInPeriod.Caption" Value="Start executing in (period)" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.StartInPeriod.DisplayValue" Value="0" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.Account.Caption" Value="חברה" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.ActivityCategory.Caption" Value="קטגוריה" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.ActivityPriority.Caption" Value="עדיפות" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.ActivityPriority.DisplayValue" Value="ab96fa02-7fe6-df11-971b-001d60e938c6" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.ActivityResult.Caption" Value="תוצאת פעילות" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.Application.Caption" Value="Application" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.Case.Caption" Value="מקרה" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.Change.Caption" Value="שינוי" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.ConfItem.Caption" Value="פריט תצורה" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.Contact.Caption" Value="איש קשר" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.Contract.Caption" Value="חוזה" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.CurrentActivityId.Caption" Value="Task Id" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.Document.Caption" Value="מסמך" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.Duration.Caption" Value="משך" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.Duration.DisplayValue" Value="20" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.DurationPeriod.Caption" Value="Duration (period)" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.DurationPeriod.DisplayValue" Value="0" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.Event.Caption" Value="תהליך" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.ExecutionContext.Caption" Value="Execution context" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.FinApplication.Caption" Value="Application" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.Incident.Caption" Value="Incident" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.InformationOnStep.Caption" Value="Information on step" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.Invoice.Caption" Value="חשבונית" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.IsActivityCompleted.Caption" Value="Activity completed" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.IsActivityCompleted.DisplayValue" Value="שגוי" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.Lead.Caption" Value="הפניה" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.Listing.Caption" Value="Listings" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.NsPerfumery.Caption" Value="אובייקט בסיס" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.OmniChat.Caption" Value="צ'אט" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.Opportunity.Caption" Value="הזדמנות עסקית" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.Order.Caption" Value="הזמנה" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.OwnerId.Caption" Value="בעלים" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.Problem.Caption" Value="בעיה" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.Project.Caption" Value="פרויקט" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.Property.Caption" Value="תכונות" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.QueueItem.Caption" Value="Queue item" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.Recommendation.Caption" Value="המלצה" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.Release.Caption" Value="שחרור גרסה" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.RemindBefore.Caption" Value="Remind owner in advance" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.RemindBefore.DisplayValue" Value="0" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.RemindBeforePeriod.Caption" Value="Remind owner in advance (period)" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.RemindBeforePeriod.DisplayValue" Value="0" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.Requests.Caption" Value="Request" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.ShowExecutionPage.Caption" Value="Show execution page automatically" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.ShowExecutionPage.DisplayValue" Value="אמת" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.ShowInScheduler.Caption" Value="הצג בלוח השנה" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.ShowInScheduler.DisplayValue" Value="שגוי" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.StartIn.Caption" Value="Start executing in" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.StartIn.DisplayValue" Value="0" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.StartInPeriod.Caption" Value="Start executing in (period)" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.StartInPeriod.DisplayValue" Value="0" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.Account.Caption" Value="חברה" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.ActivityCategory.Caption" Value="קטגוריה" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.ActivityCategory.DisplayValue" Value="f51c4643-58e6-df11-971b-001d60e938c6" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.ActivityPriority.Caption" Value="עדיפות" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.ActivityPriority.DisplayValue" Value="ab96fa02-7fe6-df11-971b-001d60e938c6" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.ActivityResult.Caption" Value="תוצאת פעילות" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.ActivitySchemaUId.Caption" Value="Unique identifier of &quot;Activity&quot; object schema" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.Case.Caption" Value="מקרה" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.Change.Caption" Value="שינוי" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.ConfItem.Caption" Value="פריט תצורה" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.Contact.Caption" Value="איש קשר" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.Contract.Caption" Value="חוזה" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.CreateActivity.Caption" Value="צור פעילות" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.CreateActivity.DisplayValue" Value="שגוי" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.CurrentActivityId.Caption" Value="Unique identifier of activity" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.DataSourceFilters.Caption" Value="Data source filters" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.DecisionalColumnMetaPath.Caption" Value="עמודה" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.Document.Caption" Value="מסמך" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.Duration.Caption" Value="משך" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.Duration.DisplayValue" Value="5" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.DurationPeriod.Caption" Value="Duration (period)" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.DurationPeriod.DisplayValue" Value="0" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.EditMode.Caption" Value="Page edit mode" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.Event.Caption" Value="תהליך" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.ExecutedMode.Caption" Value="Consider completed" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.ExecutionContext.Caption" Value="Execution context" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.GenerateDecisionsFromColumn.Caption" Value="Results list is generated by column" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.Incident.Caption" Value="Incident" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.InformationOnStep.Caption" Value="Information on step" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.Invoice.Caption" Value="חשבונית" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.IsActivityCompleted.Caption" Value="Activity completed" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.IsActivityCompleted.DisplayValue" Value="שגוי" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.IsMatchConditions.Caption" Value="If object meets the following conditions" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.IsReexecution.Caption" Value="Repeated completion" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.Lead.Caption" Value="הפניה" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.Listing.Caption" Value="Listing" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.NsPerfumery.Caption" Value="אובייקט בסיס" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.ObjectSchemaId.Caption" Value="אובייקט" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.OmniChat.Caption" Value="צ'אט" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.Opportunity.Caption" Value="הזדמנות עסקית" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.Order.Caption" Value="הזמנה" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.OwnerId.Caption" Value="בעלים" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.PageSchemaId.Caption" Value="דף" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.PageTypeUId.Caption" Value="Unique identifier of page type" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.Problem.Caption" Value="בעיה" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.Project.Caption" Value="פרויקט" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.Property.Caption" Value="Property" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.Recommendation.Caption" Value="המלצה" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.RecordColumnValues.Caption" Value="Default values" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.RecordId.Caption" Value="מזהה רשומה" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.Release.Caption" Value="שחרור גרסה" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.RemindBefore.Caption" Value="Remind owner in advance" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.RemindBefore.DisplayValue" Value="0" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.RemindBeforePeriod.Caption" Value="Remind owner in advance (period)" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.RemindBeforePeriod.DisplayValue" Value="0" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.Requests.Caption" Value="Request" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.ResultParameter.Caption" Value="Diverging parameter" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.ShowExecutionPage.Caption" Value="Show execution page automatically" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.ShowExecutionPage.DisplayValue" Value="אמת" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.ShowInScheduler.Caption" Value="הצג בלוח השנה" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.ShowInScheduler.DisplayValue" Value="שגוי" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.StartIn.Caption" Value="Start executing in" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.StartIn.DisplayValue" Value="0" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.StartInPeriod.Caption" Value="Start executing in (period)" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.StartInPeriod.DisplayValue" Value="0" />
+		</Items>
+	</Group>
+</Resources>

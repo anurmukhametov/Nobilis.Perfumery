@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "068065dc-c082-48cc-bbe6-9bdc73509d2e",
+    "Name": "NsNotificationSubProcess",
+    "ModifiedOnUtc": "\/Date(1657268912000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Подпроцесс \"Уведомление ответственного о завершении рекламирования продукта\""
+  }
+}

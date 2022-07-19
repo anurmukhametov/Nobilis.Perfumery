@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "08ef7e9a-148e-4877-b4d4-751fd346dc6a",
+    "Name": "NsInterestedContact",
+    "ModifiedOnUtc": "\/Date(1657264299000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Заинтересованные контакты"
+  }
+}

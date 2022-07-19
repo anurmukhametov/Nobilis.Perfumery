@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "bf52279f-64df-f1ac-913f-9c3b72b1f67b",
+    "Name": "Nobilis.Perfumery",
+    "ModifiedOnUtc": "\/Date(1657018566000)\/",
+    "Maintainer": "Nobilis",
+    "DependsOn": [
+      {
+        "UId": "613fd913-be03-46ce-909b-f44e4225469e",
+        "PackageVersion": "7.8.0",
+        "Name": "UIv2"
+      }
+    ]
+  }
+}

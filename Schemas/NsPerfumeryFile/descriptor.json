@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "3376a19c-c509-422e-a108-5faaa2c35cb0",
+    "Name": "NsPerfumeryFile",
+    "ModifiedOnUtc": "\/Date(1657018717000)\/",
+    "Parent": {
+      "UId": "556c5867-60a7-4456-aae1-a57a122bef70",
+      "Name": "File"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Файл и ссылка объекта Парфюмерия",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,33 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "35950fa4-1282-4355-88bf-1330f4d0391e"
+        },
+        {
+          "SchemaColumnUId": "551ce105-25dc-4a76-b318-cf37635e88c3",
+          "Value": "{\"Chart3a38aa26-67da-4f7b-bf96-1c57352dbc1d\":{\"widgetType\":\"Chart\",\"parameters\":{\"seriesConfig\":[],\"orderBy\":\"GroupByField\",\"orderDirection\":\"Ascending\",\"dateTimeFormat\":\"Day;Month;Year\",\"caption\":\"График\",\"sectionId\":\"f6593285-f64b-4569-b8b3-fec54a7d2cbc\",\"xAxisDefaultCaption\":\"Дата\",\"yAxisDefaultCaption\":\"Стоимость\",\"useEmptyValue\":false,\"isStackedChart\":false,\"primaryColumnName\":\"Id\",\"yAxisConfig\":{\"position\":0},\"schemaName\":\"NsPriceDynamics\",\"sectionBindingColumn\":\"Perfumery\",\"func\":3,\"type\":\"line\",\"xAxisColumn\":\"CreatedOn\",\"yAxisColumn\":\"Price\",\"XAxisCaption\":\"\",\"styleColor\":\"widget-green\",\"filterData\":\"{\\\"className\\\":\\\"Terrasoft.FilterGroup\\\",\\\"items\\\":{},\\\"logicalOperation\\\":0,\\\"isEnabled\\\":true,\\\"filterType\\\":6,\\\"rootSchemaName\\\":\\\"NsPriceDynamics\\\",\\\"key\\\":\\\"\\\"}\",\"format\":{\"thousandSeparator\":\" \",\"type\":4,\"dateFormat\":\"d.m.Y\"},\"isLegendEnabled\":true}},\"Indicatorfa550403-684b-4618-850f-c7f83c0a9c09\":{\"widgetType\":\"Indicator\",\"parameters\":{\"caption\":\"Показатель\",\"sectionBindingColumn\":\"Id\",\"sectionId\":\"f6593285-f64b-4569-b8b3-fec54a7d2cbc\",\"entitySchemaName\":\"NsPerfumery\",\"filterData\":\"{\\\"className\\\":\\\"Terrasoft.FilterGroup\\\",\\\"items\\\":{\\\"72dc59ea-4b50-4977-ac85-63ece47b19b8\\\":{\\\"className\\\":\\\"Terrasoft.CompareFilter\\\",\\\"filterType\\\":1,\\\"comparisonType\\\":3,\\\"isEnabled\\\":true,\\\"trimDateTimeParameterToDate\\\":false,\\\"leftExpression\\\":{\\\"className\\\":\\\"Terrasoft.ColumnExpression\\\",\\\"expressionType\\\":0,\\\"columnPath\\\":\\\"Price\\\"},\\\"isAggregative\\\":false,\\\"key\\\":\\\"72dc59ea-4b50-4977-ac85-63ece47b19b8\\\",\\\"dataValueType\\\":6,\\\"leftExpressionCaption\\\":\\\"Цена\\\",\\\"rightExpression\\\":{\\\"className\\\":\\\"Terrasoft.ParameterExpression\\\",\\\"expressionType\\\":2,\\\"parameter\\\":{\\\"className\\\":\\\"Terrasoft.Parameter\\\",\\\"dataValueType\\\":6,\\\"value\\\":0}}}},\\\"logicalOperation\\\":0,\\\"isEnabled\\\":true,\\\"filterType\\\":6,\\\"rootSchemaName\\\":\\\"NsPerfumery\\\",\\\"key\\\":\\\"\\\"}\",\"aggregationType\":1,\"format\":{\"textDecorator\":\"{0}\",\"thousandSeparator\":\" \",\"type\":5,\"dateFormat\":\"d.m.Y\",\"decimalPrecision\":2},\"style\":\"widget-blue\",\"fontStyle\":\"default-indicator-font-size\"}}}"
+        },
+        {
+          "SchemaColumnUId": "78ed4015-b81f-49fc-9d50-847cf8df5e6c",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "9eedf8ab-d02e-4a4a-9f9d-19ede1c873bc",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "a215f575-7283-41bd-8852-b2415a935051",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "fb750eb9-35b6-463e-b3b8-1a69ec871e43",
+          "Value": ""
+        }
+      ]
+    }
+  ]
+}

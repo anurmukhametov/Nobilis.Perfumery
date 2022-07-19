@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "0b7bc80c-e5c1-4aa6-acb4-ccb9168977fc",
+    "Name": "NsPerfumeCaseTypes",
+    "ModifiedOnUtc": "\/Date(1657262745000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Типы кейса парфюмерии"
+  }
+}

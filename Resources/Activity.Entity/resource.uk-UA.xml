@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.NsPerfumery.Caption" Value="Базовий об'єкт" />
+			<Item Name="EventsProcessSchema.Caption" Value="Активність" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.Hour.Caption" Value="Година" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.Hour.Value" Value=" г. " />
+			<Item Name="EventsProcessSchema.LocalizableStrings.Minute.Value" Value=" хв." />
+			<Item Name="EventsProcessSchema.LocalizableStrings.OwnerAndOwnerRoleAreEmptyErrorMessage.Value" Value="Будь ласка, заповніть поле &quot;Відповідальний&quot; або &quot;Роль&quot;." />
+			<Item Name="EventsProcessSchema.LocalizableStrings.OwnerIsEmptyErrorMessage.Value" Value="Будь ласка, заповніть поле &quot;Відповідальний&quot;." />
+			<Item Name="EventsProcessSchema.LocalizableStrings.SenderEmailMoreThenOne.Caption" Value="Повідомлення користувачу 1" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.SenderEmailMoreThenOne.Value" Value="В поле &quot;Від кого&quot; знаходиться більше ніж один відправник" />
+		</Items>
+	</Group>
+</Resources>

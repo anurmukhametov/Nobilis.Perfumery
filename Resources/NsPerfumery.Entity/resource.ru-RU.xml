@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Парфюмерия" />
+			<Item Name="Columns.CaseStages.Caption" Value="Стадии кейса" />
+			<Item Name="Columns.CaseTypes.Caption" Value="Типы кейса" />
+			<Item Name="Columns.Manufacturer.Caption" Value="Изготовитель" />
+			<Item Name="Columns.Name.Caption" Value="Название" />
+			<Item Name="Columns.Notes.Caption" Value="Заметки" />
+			<Item Name="Columns.Picture.Caption" Value="Картинка" />
+			<Item Name="Columns.Price.Caption" Value="Цена" />
+			<Item Name="Columns.Weight.Caption" Value="Вес" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

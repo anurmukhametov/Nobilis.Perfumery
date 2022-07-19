@@ -1,0 +1,25 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "387965c3-6dff-478b-a04d-bfe0663d7192"
+        },
+        {
+          "SchemaColumnUId": "78ed4015-b81f-49fc-9d50-847cf8df5e6c",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "9eedf8ab-d02e-4a4a-9f9d-19ede1c873bc",
+          "Value": "f6593285-f64b-4569-b8b3-fec54a7d2cbc",
+          "DisplayValue": "Парфюмерия"
+        },
+        {
+          "SchemaColumnUId": "fb750eb9-35b6-463e-b3b8-1a69ec871e43",
+          "Value": "[{\"layout\":{\"column\":0,\"row\":0,\"colSpan\":12,\"rowSpan\":1},\"name\":\"Moduled049b52d1534\",\"itemType\":4},{\"layout\":{\"column\":0,\"row\":1,\"colSpan\":12,\"rowSpan\":8},\"name\":\"Chart14d264f99ce5\",\"itemType\":4}]"
+        }
+      ]
+    }
+  ]
+}

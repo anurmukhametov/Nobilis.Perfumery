@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "e99cab6f-82f7-49a1-8ac8-c930971b6e45",
+    "Name": "NsPerfumery1Page",
+    "ModifiedOnUtc": "\/Date(1657533523000)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Страница редактирования: \"Парфюмерия\""
+  }
+}

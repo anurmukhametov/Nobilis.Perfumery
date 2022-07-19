@@ -1,0 +1,23 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "387965c3-6dff-478b-a04d-bfe0663d7192"
+        },
+        {
+          "SchemaColumnUId": "551ce105-25dc-4a76-b318-cf37635e88c3",
+          "ColumnName": "Items",
+          "Value": "{\"Module51997930f630\":{\"parameters\":{\"moduleName\":\"NsPerfumery5ed042bbSection\",\"caption\":\"Схема раздела: \\\"Парфюмерия\\\"\",\"parameters\":\"\",\"configurationMessage\":\"\"},\"widgetType\":\"Module\"},\"Moduled049b52d1534\":{\"parameters\":{\"moduleName\":\"NsFreePerfumeCountModule\",\"caption\":\"Модуль показателя количества продуктов без цены\",\"parameters\":{\"CurrencyName\":\"Количество продуктов без цены\",\"style\":\"widget-blue\"},\"configurationMessage\":\"GetIndicatorConfig\"},\"widgetType\":\"Module\"},\"Chart14d264f99ce5\":{\"parameters\":{\"seriesConfig\":[],\"orderBy\":\"ChartEntityColumn:0\",\"orderDirection\":\"Ascending\",\"dateTimeFormat\":null,\"caption\":\"Динамика цен\",\"sectionId\":\"f6593285-f64b-4569-b8b3-fec54a7d2cbc\",\"xAxisDefaultCaption\":\"Дата\",\"yAxisDefaultCaption\":\"Стоимость\",\"useEmptyValue\":false,\"isStackedChart\":false,\"primaryColumnName\":\"Id\",\"yAxisConfig\":{\"position\":0},\"schemaName\":\"NsPriceDynamics\",\"sectionBindingColumn\":\"Perfumery\",\"func\":3,\"type\":\"pie\",\"xAxisColumn\":\"Perfumery\",\"yAxisColumn\":\"Price\",\"styleColor\":\"widget-green\",\"filterData\":\"{\\\"className\\\":\\\"Terrasoft.FilterGroup\\\",\\\"items\\\":{},\\\"logicalOperation\\\":0,\\\"isEnabled\\\":true,\\\"filterType\\\":6,\\\"rootSchemaName\\\":\\\"NsPriceDynamics\\\",\\\"key\\\":\\\"\\\"}\",\"format\":{\"thousandSeparator\":\" \",\"type\":4,\"dateFormat\":\"d.m.Y\"},\"isLegendEnabled\":false},\"widgetType\":\"Chart\"}}"
+        },
+        {
+          "SchemaColumnUId": "a215f575-7283-41bd-8852-b2415a935051",
+          "ColumnName": "Caption",
+          "Value": "Анализ цен"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Карточка схемы: &quot;Динамика цен&quot;" />
+			<Item Name="LocalizableStrings.CreatedOn45dbdecfc40c4488b78b68c74afcdae7Tip.Value" Value="Заполнится автоматически" />
+		</Items>
+	</Group>
+</Resources>

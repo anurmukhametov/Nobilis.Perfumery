@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "aa984085-4e90-43dd-8fb4-11eaf9daed66",
+    "Name": "NsPerfumeryInTag",
+    "ModifiedOnUtc": "\/Date(1657018728000)\/",
+    "Parent": {
+      "UId": "5894a2b0-51d5-419a-82bb-238674634270",
+      "Name": "BaseEntityInTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег в записи раздела Парфюмерия",
+    "DependsOn": []
+  }
+}

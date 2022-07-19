@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="fa-IR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.NsPerfumery.Caption" Value="هدف پایه" />
+			<Item Name="EventsProcessSchema.Caption" Value="Process" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.Hour.Caption" Value="ساعت" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.Hour.Value" Value=" h " />
+			<Item Name="EventsProcessSchema.LocalizableStrings.Minute.Value" Value=" دقیق" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.OwnerAndOwnerRoleAreEmptyErrorMessage.Value" Value="Please, fill in either the &quot;Owner&quot; or &quot;Role&quot; field." />
+			<Item Name="EventsProcessSchema.LocalizableStrings.OwnerIsEmptyErrorMessage.Value" Value="Please, fill in the &quot;Owner&quot; field." />
+			<Item Name="EventsProcessSchema.LocalizableStrings.SenderEmailMoreThenOne.Caption" Value="پیام به کاربر 1" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.SenderEmailMoreThenOne.Value" Value="More than one sender is specified in the &quot;From&quot; field" />
+		</Items>
+	</Group>
+</Resources>

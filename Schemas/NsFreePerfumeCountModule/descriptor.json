@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "835d18f9-c9bb-44e9-b8df-6eb5735251ca",
+    "Name": "NsFreePerfumeCountModule",
+    "ModifiedOnUtc": "\/Date(1657204955000)\/",
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Модуль показателя количества продуктов без цены"
+  }
+}

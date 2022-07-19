@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="nl-NL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.NsPerfumery.Caption" Value="Basis object" />
+			<Item Name="EventsProcessSchema.Caption" Value="Process" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.Hour.Caption" Value="Uur" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.Hour.Value" Value=" uur " />
+			<Item Name="EventsProcessSchema.LocalizableStrings.Minute.Value" Value=" min" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.OwnerAndOwnerRoleAreEmptyErrorMessage.Value" Value="Please, fill in either the &quot;Owner&quot; or &quot;Role&quot; field." />
+			<Item Name="EventsProcessSchema.LocalizableStrings.OwnerIsEmptyErrorMessage.Value" Value="Gelieve het veld &quot;Eigenaar&quot; in te vullen." />
+			<Item Name="EventsProcessSchema.LocalizableStrings.SenderEmailMoreThenOne.Caption" Value="Bericht aan gebruiker 1" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.SenderEmailMoreThenOne.Value" Value="Meer dan één afzender wordt aangegeven in de &amp; &quot;Van&quot; veld" />
+		</Items>
+	</Group>
+</Resources>

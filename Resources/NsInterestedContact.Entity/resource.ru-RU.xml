@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Заинтересованные контакты" />
+			<Item Name="Columns.Contact.Caption" Value="Контакты" />
+			<Item Name="Columns.Perfumery.Caption" Value="Парфюмерия" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,38 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "ClientUnitSchemaManager",
+      "UId": "835d18f9-c9bb-44e9-b8df-6eb5735251ca",
+      "A2": "NsFreePerfumeCountModule",
+      "A5": "bd75a8ad-5a86-431f-91a9-41d6aa9de39c",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "bf52279f-64df-f1ac-913f-9c3b72b1f67b",
+      "B8": "7.18.5.1500",
+      "HD1": "50e3acc0-26fc-4237-a095-849a1d534bd3",
+      "HD4": 1,
+      "HD6": "null",
+      "HD5": [],
+      "HD7": [
+        {
+          "UId": "f68788a2-f03e-94d6-bb32-9c647c825bdc",
+          "A2": "GenerateIndicator",
+          "A3": "835d18f9-c9bb-44e9-b8df-6eb5735251ca",
+          "A4": "835d18f9-c9bb-44e9-b8df-6eb5735251ca",
+          "HX2": 1
+        },
+        {
+          "UId": "ca69ae09-a046-4fdc-2e11-be08d1403799",
+          "A2": "GetIndicatorConfig",
+          "A3": "835d18f9-c9bb-44e9-b8df-6eb5735251ca",
+          "A4": "835d18f9-c9bb-44e9-b8df-6eb5735251ca",
+          "HX1": 1,
+          "HX2": 1
+        }
+      ],
+      "HD8": [],
+      "HD11": []
+    }
+  }
+}

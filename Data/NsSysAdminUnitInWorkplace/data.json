@@ -1,0 +1,22 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "4830bd75-c444-4c99-b47a-d4a8db452458"
+        },
+        {
+          "SchemaColumnUId": "b96bb4ca-a133-44f1-aa7d-24495d89e278",
+          "Value": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+          "DisplayValue": "All employees"
+        },
+        {
+          "SchemaColumnUId": "d5cfaf4a-0900-4ef9-aee8-2ede7f9d97fb",
+          "Value": "29b65d72-5ac0-44c4-a469-e45d200980b3",
+          "DisplayValue": "Задание 3"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="vi-VN">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.NsPerfumery.Caption" Value="Đối tượng cơ bản" />
+			<Item Name="EventsProcessSchema.Caption" Value="Xử lý" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.Hour.Caption" Value="Giờ" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.Hour.Value" Value=" h " />
+			<Item Name="EventsProcessSchema.LocalizableStrings.Minute.Value" Value=" phút" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.OwnerAndOwnerRoleAreEmptyErrorMessage.Value" Value="Please, fill in either the &quot;Owner&quot; or &quot;Role&quot; field." />
+			<Item Name="EventsProcessSchema.LocalizableStrings.OwnerIsEmptyErrorMessage.Value" Value="Please, fill in the &quot;Owner&quot; field." />
+			<Item Name="EventsProcessSchema.LocalizableStrings.SenderEmailMoreThenOne.Caption" Value="Tin nhắn đến người dùng 1" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.SenderEmailMoreThenOne.Value" Value="More than one sender is specified in the &quot;From&quot; field" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "9977bcc1-2c6c-46ea-8a11-93d46a5920b2",
+    "Name": "NsPerfumery",
+    "ModifiedOnUtc": "\/Date(1657610902000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Парфюмерия"
+  }
+}

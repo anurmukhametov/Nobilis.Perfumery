@@ -1,0 +1,133 @@
+= MetaData.Schema.UId "9977bcc1-2c6c-46ea-8a11-93d46a5920b2"
+= MetaData.Schema.A2 "NsPerfumery"
+= MetaData.Schema.A5 "bd75a8ad-5a86-431f-91a9-41d6aa9de39c"
+= MetaData.Schema.B6 "bf52279f-64df-f1ac-913f-9c3b72b1f67b"
+= MetaData.Schema.B8 "7.18.5.1500"
+= MetaData.Schema.EG1.UId "f2e1d4c9-ec93-4954-bc5e-6c2a95d40bf7"
+= MetaData.Schema.EG1.A2 "NsPerfumeryEventsProcess"
+= MetaData.Schema.EG1.A5 "bd75a8ad-5a86-431f-91a9-41d6aa9de39c"
+= MetaData.Schema.EG1.B1 []
+= MetaData.Schema.EG1.B3 []
++ MetaData.Schema.EG1.B8 "7.18.5.1500"
+= MetaData.Schema.EG1.FJ1 []
+= MetaData.Schema.EG1.BK37.A3 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK37.A4 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK3 []
+= MetaData.Schema.EG1.BK4 []
++ MetaData.Schema.EG1.Labels []
++ MetaData.Schema.D15 true
+= MetaData.Schema.D8 "1bab9dcf-17d5-49f8-9536-8e0064f1dce0"
++ MetaData.Schema.D29 "null"
++ MetaData.Schema.D30 "null"
++ MetaData.Schema.D31 "null"
++ MetaData.Schema.D4 "3ce667bb-8b07-4f27-9dc5-f0b911c9d6e0"
++ MetaData.Schema.D2 {
+  "UId": "3ce667bb-8b07-4f27-9dc5-f0b911c9d6e0",
+  "A2": "Name",
+  "A3": "9977bcc1-2c6c-46ea-8a11-93d46a5920b2",
+  "A4": "9977bcc1-2c6c-46ea-8a11-93d46a5920b2",
+  "A5": "bd75a8ad-5a86-431f-91a9-41d6aa9de39c",
+  "S2": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd",
+  "E2": 1,
+  "E5": false
+}
++ MetaData.Schema.D2 {
+  "UId": "d646c37c-1032-4adc-a60c-edd185954e3c",
+  "A2": "Notes",
+  "A3": "9977bcc1-2c6c-46ea-8a11-93d46a5920b2",
+  "A4": "9977bcc1-2c6c-46ea-8a11-93d46a5920b2",
+  "A5": "bd75a8ad-5a86-431f-91a9-41d6aa9de39c",
+  "S2": "c0f04627-4620-4bc0-84e5-9419dc8516b1",
+  "E5": false
+}
++ MetaData.Schema.D2 {
+  "UId": "119f5346-d893-afac-62fe-192c1d958d22",
+  "A2": "Price",
+  "A3": "9977bcc1-2c6c-46ea-8a11-93d46a5920b2",
+  "A4": "9977bcc1-2c6c-46ea-8a11-93d46a5920b2",
+  "A5": "bd75a8ad-5a86-431f-91a9-41d6aa9de39c",
+  "S2": "969093e2-2b4e-463b-883a-3d3b8c61f0cd"
+}
++ MetaData.Schema.D2 {
+  "UId": "9241431d-cb6e-aad0-06c8-887ed74aee1e",
+  "A2": "Weight",
+  "A3": "9977bcc1-2c6c-46ea-8a11-93d46a5920b2",
+  "A4": "9977bcc1-2c6c-46ea-8a11-93d46a5920b2",
+  "A5": "bd75a8ad-5a86-431f-91a9-41d6aa9de39c",
+  "S2": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
+}
++ MetaData.Schema.D2 {
+  "UId": "26d2d129-7d5f-6ad8-5e16-6ee9f9034963",
+  "A2": "Manufacturer",
+  "A3": "9977bcc1-2c6c-46ea-8a11-93d46a5920b2",
+  "A4": "9977bcc1-2c6c-46ea-8a11-93d46a5920b2",
+  "A5": "bd75a8ad-5a86-431f-91a9-41d6aa9de39c",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "25d7c1ab-1de0-4501-b402-02e0e5a72d6e",
+  "E6": true,
+  "E17": "ManufacturerId",
+  "E18": "ManufacturerName"
+}
++ MetaData.Schema.D2 {
+  "UId": "a3ada966-3eb6-2755-4b42-b3c95553455a",
+  "A2": "Picture",
+  "A3": "9977bcc1-2c6c-46ea-8a11-93d46a5920b2",
+  "A4": "9977bcc1-2c6c-46ea-8a11-93d46a5920b2",
+  "A5": "bd75a8ad-5a86-431f-91a9-41d6aa9de39c",
+  "S2": "b039feb0-ee7c-4884-8aa6-d6d45d84316f",
+  "S4": "93986bfe-2dbd-46bc-9bf9-d03dfefbf3b8",
+  "E6": true,
+  "E17": "PictureId",
+  "E18": "PictureName"
+}
++ MetaData.Schema.D2 {
+  "UId": "69a9c49d-7ebb-0c51-0d26-eddf7528d8b1",
+  "A2": "CaseTypes",
+  "A3": "9977bcc1-2c6c-46ea-8a11-93d46a5920b2",
+  "A4": "9977bcc1-2c6c-46ea-8a11-93d46a5920b2",
+  "A5": "bd75a8ad-5a86-431f-91a9-41d6aa9de39c",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "0b7bc80c-e5c1-4aa6-acb4-ccb9168977fc",
+  "E6": true,
+  "E20": true,
+  "E12": {
+    "FB1": 1,
+    "FB2": "9e928041-f2c3-476d-8f26-f0474e6228d6"
+  },
+  "E17": "CaseTypesId",
+  "E18": "CaseTypesName"
+}
++ MetaData.Schema.D2 {
+  "UId": "7cbbc210-d460-bd15-1d06-c88626fb4509",
+  "A2": "CaseStages",
+  "A3": "9977bcc1-2c6c-46ea-8a11-93d46a5920b2",
+  "A4": "9977bcc1-2c6c-46ea-8a11-93d46a5920b2",
+  "A5": "bd75a8ad-5a86-431f-91a9-41d6aa9de39c",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "c8e0d7b7-9f5b-4f51-835f-55a2ff189912",
+  "E6": true,
+  "E20": true,
+  "E17": "CaseStagesId",
+  "E18": "CaseStagesName"
+}
+~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","3fabd836-6a53-4d8d-9069-6df88d9dae1e","3ce667bb-8b07-4f27-9dc5-f0b911c9d6e0","d646c37c-1032-4adc-a60c-edd185954e3c","119f5346-d893-afac-62fe-192c1d958d22","9241431d-cb6e-aad0-06c8-887ed74aee1e","26d2d129-7d5f-6ad8-5e16-6ee9f9034963","a3ada966-3eb6-2755-4b42-b3c95553455a","69a9c49d-7ebb-0c51-0d26-eddf7528d8b1","7cbbc210-d460-bd15-1d06-c88626fb4509"]
+= MetaData.Schema.D20.A2 "NsPerfumeryEvents"
+- MetaData.Schema.EG1.B6
+- MetaData.Schema.EG1.BK29
+- MetaData.Schema.EG1.BK30
+- MetaData.Schema.D1
+- MetaData.Schema.D20.A5
+- MetaData.Schema.D20.FA4
+- MetaData.Schema.D20.FA5
+- MetaData.Schema.D20.FA6
+- MetaData.Schema.D20.FA7
+- MetaData.Schema.D20.FA11
+- MetaData.Schema.D20.FA12
+- MetaData.Schema.D20.FA15
++ MetaData.Schema.B7 false
++ MetaData.Schema.D2.["ae0e45ca-c495-4fe7-a39d-3ab7278e1617"].E16 false
++ MetaData.Schema.D2.["e80190a5-03b2-4095-90f7-a193a960adee"].E16 false
++ MetaData.Schema.D2.["ebf6bb93-8aa6-4a01-900d-c6ea67affe21"].E16 false
++ MetaData.Schema.D2.["9928edec-4272-425a-93bb-48743fee4b04"].E16 false
++ MetaData.Schema.D2.["3015559e-cbc6-406a-88af-07f7930be832"].E16 false
++ MetaData.Schema.D2.["3fabd836-6a53-4d8d-9069-6df88d9dae1e"].E16 false
