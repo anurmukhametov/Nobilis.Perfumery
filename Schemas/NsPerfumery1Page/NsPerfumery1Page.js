@@ -18,21 +18,6 @@ define('NsPerfumery1Page', [], function () {
 					},
 				},
 			},
-			// "Indicatorfa550403-684b-4618-850f-c7f83c0a9c09": {
-			//     moduleId: "Indicatorfa550403-684b-4618-850f-c7f83c0a9c09",
-			//     moduleName: "CardWidgetModule",
-			//     config: {
-			//         parameters: {
-			//             viewModelConfig: {
-			//                 widgetKey: "Indicatorfa550403-684b-4618-850f-c7f83c0a9c09",
-			//                 recordId: "35950fa4-1282-4355-88bf-1330f4d0391e",
-			//                 primaryColumnValue: {
-			//                     getValueMethod: "getPrimaryColumnValue",
-			//                 },
-			//             },
-			//         },
-			//     },
-			// },
 			NsFreePerfumeCountModule: {
 				moduleId: 'NsFreePerfumeCountModule',
 				moduleName: 'NsFreePerfumeCountModule',
